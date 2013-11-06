@@ -1,0 +1,7 @@
+<style type="text/css">
+td { border: none !important; }
+#compatability { font-size: .95em; border: 1px dotted gray; padding: 0 0 1em 1em;  }
+#compatability h2 { color: #000000 !important; }
+p.warning { color: #a91a07; font-size: 16px; }
+#content h1 { display: none; }
+</style>
